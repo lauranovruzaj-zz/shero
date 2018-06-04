@@ -1,0 +1,27 @@
+
+
+div{
+    width:200px;
+    height:200px;
+    text-align: center;
+    color:#ffffff;
+    position:relative;
+
+}
+div span{
+    position: absolute;
+    top: 40%;
+    right: 31%;;
+
+}
+#red{
+    background-color: #ff0000;
+
+}
+#blue{
+    background-color: #0000ff;
+
+}
+.hidden{
+    display:none;
+}
