@@ -1,0 +1,24 @@
+
+
+.slider {
+    width: 65%;
+    margin: 100px auto;
+}
+
+
+
+.slick-slide img {
+    width: 100%;
+}
+
+#next,#previous{
+
+    font-size: 30px;
+}
+#previous{
+    margin-left: 50%;
+}
+
+.hidden{
+    display:none;
+}

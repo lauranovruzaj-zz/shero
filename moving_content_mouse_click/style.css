@@ -1,10 +1,15 @@
 button{
-    width: 200px;
+    width: 198px;
     height: 50px;
+    font-size: 30px;
 }
 
 #content{
-    width: 398px;
-    border-style: solid;
+    width: 400px;
+    background-color: #2A7DA4;
     height: 200px;
+}
+#section{
+    margin-left: 35%;
+    margin-top: 100px;
 }
